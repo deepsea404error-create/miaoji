@@ -1,0 +1,23 @@
+# ── 编辑器 / IDE ──
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.bak
+
+# ── 操作系统 ──
+Thumbs.db
+.DS_Store
+Desktop.ini
+ehthumbs.db
+
+# ── 日志 / 临时文件 ──
+*.log
+*.tmp
+*.temp
+
+# ── 构建产物 ──
+__pycache__/
+*.pyc
+*.luac
